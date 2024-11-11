@@ -6,3 +6,9 @@ border-bottom: solid 2px rgb(157, 177, 146);
 
 
 }
+section{
+padding-top: 80px;
+padding-bottom:80px;
+display:flex;
+justify-content: center;
+}
